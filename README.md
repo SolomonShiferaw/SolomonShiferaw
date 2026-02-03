@@ -19,7 +19,7 @@
 
 ## **Contact**
 
-📧 **Email:** [ceo@dalloltechnologies96.com](mailto:ceo@dalloltechnologies96.com)  
+📧 **Email:** [@dalloltechnologies96.com](mailto:@dalloltechnologies96.com)  
 🔗 **LinkedIn:** [Solomon Shiferaw](https://www.linkedin.com/in/solomon-shiferaw77/)
 
 <br>
