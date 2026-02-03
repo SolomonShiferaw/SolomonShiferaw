@@ -1,91 +1,118 @@
-# 👨‍💻 Solomon Shiferaw
-**Software Developer @ Dallol Technologies** | Addis Ababa, Ethiopia
+# 👨‍💼 Solomon Shiferaw
+**CEO & Founder @ Dallol Technologies** | Addis Ababa, Ethiopia  
+*Technology Leader | Entrepreneur | Software Architect*
 
-## 🚀 About Me
-I'm a passionate software developer at Dallol Technologies, specializing in building robust and scalable applications. I focus on creating efficient solutions that solve real-world problems.
+## 🏢 Executive Profile
+As the Founder and CEO of **Dallol Technologies**, I lead a team dedicated to building innovative software solutions that transform businesses across Ethiopia and beyond. With a strong technical background and strategic vision, I drive digital transformation initiatives for enterprises across various sectors.
 
-## 🏢 Current Role
-**Software Developer** at [Dallol Technologies](https://github.com/DallolTechnlogiesERP)
-- Developing enterprise solutions
-- Building scalable architectures
-- Contributing to full-stack development projects
+## 🎯 Leadership Focus
+- **Strategic Technology Direction**: Setting the technical vision and roadmap for Dallol Technologies
+- **Business Development**: Driving growth and partnerships in the Ethiopian tech ecosystem
+- **Team Leadership**: Mentoring and leading a talented team of developers and engineers
+- **Product Innovation**: Overseeing the development of cutting-edge enterprise solutions
 
-## 💻 Tech Stack
+## 🏆 Company Portfolio
+### **Dallol Technologies Suite**
+- **[Enterprise Resource Planning](https://github.com/SolomonShiferaw/DallolTechnlogiesERP)** - Comprehensive business management platform
+- **[AftaMarket E-commerce](https://github.com/SolomonShiferaw/AftaMarket)** - Digital marketplace platform
+- **[StarTrade Financial Platform](https://github.com/SolomonShiferaw/StarTradeApp)** - Financial trading and analytics
+- **[Logistics & Delivery Suite](https://github.com/SolomonShiferaw/Afta-Delivery)** - Supply chain management solutions
 
-### **Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## 💼 Board & Advisory Roles
+- Technology Advisor to various Ethiopian enterprises
+- Mentor for emerging tech startups in East Africa
+- Speaker at regional technology conferences
 
-### **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Databases:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Tools & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats
+## 📈 Business Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolomonShiferaw&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonShiferaw&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolomonShiferaw&show_icons=true&theme=corporate&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonShiferaw&layout=compact&theme=corporate&hide_border=true&bg_color=0D1117&title_color=2E8B57" />
 </p>
 
+## 🎖️ GitHub Recognition
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SolomonShiferaw&theme=darkhub&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SolomonShiferaw&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
-## 🔧 Featured Projects
+## 🛠️ Technical Background
+*While my current focus is on leadership and strategy, I maintain strong technical foundations:*
 
-### **🚀 Enterprise Solutions**
-- **[Dallol Technologies ERP](https://github.com/SolomonShiferaw/DallolTechnlogiesERP)** - Enterprise Resource Planning system
-- **[AftaMarket](https://github.com/SolomonShiferaw/AftaMarket)** - E-commerce platform
-- **[StarTradeApp](https://github.com/SolomonShiferaw/StarTradeApp)** - Trading application
+| **Domain** | **Expertise** |
+|------------|---------------|
+| **Architecture** | Enterprise Systems, Microservices, Cloud Infrastructure |
+| **Development** | Full-Stack Development, Mobile & Web Applications |
+| **Operations** | DevOps, CI/CD, System Scalability |
+| **Management** | Agile Methodologies, Technical Project Management |
 
-### **💼 Business Applications**
-- **[Afta-Delivery](https://github.com/SolomonShiferaw/Afta-Delivery)** - Delivery management system
-- **[Cargo](https://github.com/SolomonShiferaw/Cargo)** - Logistics and cargo tracking
-- **[Bingo](https://github.com/SolomonShiferaw/Bingo)** - Gaming application
+## 📱 Enterprise Solutions Portfolio
 
-## 📫 Connect With Me
+### **Core Products**
+<table>
+  <tr>
+    <td width="33%">
+      <h4>🏢 ERP System</h4>
+      <p>Comprehensive business management platform for Ethiopian enterprises</p>
+    </td>
+    <td width="33%">
+      <h4>🛒 E-commerce</h4>
+      <p>Digital marketplace connecting businesses across Ethiopia</p>
+    </td>
+    <td width="33%">
+      <h4>📊 Financial Tech</h4>
+      <p>Trading and financial analytics platform</p>
+    </td>
+  </tr>
+</table>
+
+### **Industry Solutions**
+- **Healthcare**: Indigenous medical center management systems
+- **Logistics**: Cargo and delivery management platforms
+- **Entertainment**: Gaming and digital entertainment applications
+- **Communications**: Postal and messaging solutions
+
+## 🌍 Vision & Mission
+> "To drive digital transformation in Ethiopia through innovative, locally-relevant technology solutions that empower businesses and communities."
+
+## 🤝 Executive Connections
 <p align="center">
-  <a href="mailto:solomon@dalloltechnologies.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ceo@dalloltechnologies.com">
+    <img src="https://img.shields.io/badge/Executive_Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/solomon-shiferaw">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Executive_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://solomonshiferaw.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="https://dalloltechnologies.com">
+    <img src="https://img.shields.io/badge/Company_Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://twitter.com/SolomonShiferaw">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Executive_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
-## 🌍 Based In
+## 📍 Headquarters
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Addis_Ababa,_Ethiopia-6DA3FD?style=for-the-badge&logo=google-maps&logoColor=white" />
   <br/>
-  <em>The political and diplomatic capital of Africa</em>
+  <em>Leading technology innovation from Africa's diplomatic capital</em>
 </p>
+
+## 🎙️ Speaking & Media
+Available for:
+- Technology leadership talks
+- Digital transformation workshops  
+- Startup mentorship sessions
+- Media interviews on Ethiopian tech ecosystem
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SolomonShiferaw&color=blue&style=flat" />
+  <em>"The best way to predict the future is to create it." - Peter Drucker</em>
 </p>
 
 <p align="center">
-  ⭐ <em>From <a href="https://github.com/SolomonShiferaw">SolomonShiferaw</a></em>
+  <img src="https://komarev.com/ghpvc/?username=SolomonShiferaw&color=2E8B57&style=flat&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  © 2024 Solomon Shiferaw • CEO, Dallol Technologies
 </p>
