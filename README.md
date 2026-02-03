@@ -1,5 +1,5 @@
 # 👨‍💼 Solomon Shiferaw
-**CEO & Founder @ Dallol Technologies** | Addis Ababa, Ethiopia  
+**CEO @Dallol Technologies** | Addis Ababa, Ethiopia  
 *Technology Leader | Entrepreneur | Software Architect*
 
 ## 🏢 Executive Profile
