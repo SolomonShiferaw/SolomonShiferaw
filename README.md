@@ -1,29 +1,21 @@
-# 👨‍💼 Solomon Shiferaw
+# Solomon Shiferaw
 
-### CEO — Dallol Technologies
+**CEO — Dallol Technologies**
 
-I am the CEO of **Dallol Technologies**, a technology company building practical software
-solutions for the Ethiopian market.
-
-We focus on creating reliable systems that help businesses operate more efficiently
-and grow through digital transformation.
+I am the CEO of **Dallol Technologies**, a company that builds software solutions
+for businesses in Ethiopia.
 
 ---
 
-## 🚀 What We Do
+## What Dallol Technologies Does
 
-- Enterprise & ERP systems  
+- Business & ERP systems  
 - E-commerce solutions  
 - Fintech platforms  
-- Logistics & business management software  
+- Custom software for local businesses  
 
 ---
 
-## 📬 Contact
-
-- 📧 Email: ceo@dalloltechnologies96.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/solomon-shiferaw77/
-
----
-
-📍 Addis Ababa, Ethiopia
+📍 Addis Ababa, Ethiopia  
+📧 ceo@dalloltechnologies96.com  
+🔗 https://www.linkedin.com/in/solomon-shiferaw77/
