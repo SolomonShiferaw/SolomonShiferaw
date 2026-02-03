@@ -17,5 +17,5 @@ for businesses in Ethiopia.
 ---
 
 📍 Addis Ababa, Ethiopia  
-📧 ceo@dalloltechnologies96.com  
+📧 @solomonsheferaw123@gmail.com
 🔗 https://www.linkedin.com/in/solomon-shiferaw77/
